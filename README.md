@@ -1,7 +1,7 @@
 ### PESG
 ### How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing
 
-This repository contains dataset for the EMNLP 2019 paper How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing ([Download paper (cooming soon)](https://arxiv.org)). 
+This repository contains dataset for the EMNLP 2019 paper How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing ([Download paper](https://arxiv.org/abs/1909.08837)). 
 
 # About the corpus
 Court judgment summarization corpus consists of judgments. The corpus contains over 2,000,000 judgments.
