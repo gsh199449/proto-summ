@@ -8,7 +8,7 @@ Court judgment summarization corpus consists of judgments. The corpus contains o
 
 
 # How to get Summarization with Patterns corpus?
-Signed the following copyright announcement with your name and organization. Then complete the [form](https://forms.gle/E6y7Y6cymcUjMdqY8) online and mail to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
+Signed the following copyright announcement with your name and organization. Then complete the [form](https://forms.gle/E6y7Y6cymcUjMdqY8) online and **mail** to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
 
 # Copyright
 The original copyright of all the data belongs to the source owner.
